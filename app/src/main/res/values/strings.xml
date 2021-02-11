@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LocationDemo</string>
+    <string name="location_access_required">Location access is required to display the Location preview.</string>
+    <string name="ok">OK</string>
+    <string name="location_permission_not_available">Permission is not available. Requesting location permission.</string>
+    <string name="location_permission_available">location permission is available. Starting preview.</string>
+    <string name="location_permission_granted">location permission was granted. Starting preview.</string>
+    <string name="location_permission_denied">location permission request was denied.</string>
+</resources>
